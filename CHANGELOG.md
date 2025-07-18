@@ -1,3 +1,5 @@
 ## 0.0.1
 
-* TODO: Describe initial release.
+- Initial release of `clippoard_listener_plus`.
+- Added support for clipboard monitoring on Android and iOS.
+- Emits clipboard text updates in real-time via EventChannel.
