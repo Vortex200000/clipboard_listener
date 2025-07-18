@@ -1,5 +1,5 @@
 name: clippoard_listener_plus
-description: "A Flutter plugin to listen to clipboard changes on Android and iOS."
+description: "A powerful Flutter plugin that provides real-time clipboard change detection for Android and iOS applications. Monitor clipboard content changes seamlessly with a simple, efficient stream-based API."
 version: 0.0.4
 homepage: https://github.com/Vortex200000/clipboard_listener/tree/main
 repository: https://github.com/Vortex200000/clipboard_listener/tree/main
