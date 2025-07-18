@@ -8,7 +8,7 @@ public class ClippoardListenerPlusPlugin: NSObject, FlutterPlugin, FlutterStream
 
   public static func register(with registrar: FlutterPluginRegistrar) {
     let eventChannel = FlutterEventChannel(name: "clipboard_listener/events", binaryMessenger: registrar.messenger())
-    let instance = ClipboardListenerPlugin()
+    let instance = ClippoardListenerPlusPlugin()
     eventChannel.setStreamHandler(instance)
   }
 
