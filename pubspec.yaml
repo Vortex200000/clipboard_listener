@@ -1,8 +1,8 @@
 name: clippoard_listener_plus
 description: "A new Flutter project."
 version: 0.0.1
-homepage:
-
+homepage: https://github.com/Vortex200000/clipboard_listener/tree/main
+repository: https://github.com/Vortex200000/clipboard_listener/tree/main
 environment:
   sdk: ^3.6.0
   flutter: '>=3.3.0'
